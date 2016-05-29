@@ -1,0 +1,250 @@
+.wrapper {
+    width: 100%;
+    margin: 0 auto;
+}
+
+section {
+    min-height: 400px;
+    padding: 20px;
+}
+
+#header-nav {
+    position: absolute;
+    top: 0;
+    width: 100%;
+}
+
+#hero {
+    position: relative;
+    background: url('1.jpg ');
+    background-size: cover;
+    min-height: 100vh;
+}
+
+#hero img {
+    position: relative;
+    top: 47px;
+    left: 155px;
+}
+
+.menu {
+    float: right;
+}
+
+.menu li {
+    display: inline-block;
+    padding: 0 20px;
+    margin-top: 0;
+}
+
+.menu li a {
+    font-size: 22px;
+    font-weight: 400;
+    line-height: 31px;
+}
+
+.conteiner {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1000px;
+}
+
+h2 {
+    margin: 0;
+    text-align: center;
+    margin-top: 294px;
+    color: white;
+    font-family: DroidSans;
+    font-size: 36px;
+
+}
+
+.button {
+    margin-top: 15vh;
+}
+
+.button span {
+    display: block;
+    text-align: center;
+}
+
+.v-button-description {
+    font-size: 27px;
+    padding: 3% 0;
+}
+
+.v-button {
+    background-color: #2ecc71;
+    width: 30px;
+    padding: 20px;
+    margin: auto;
+    color: white;
+    border-radius: 50%;
+    font-size: 60px;
+}
+
+#about {
+    position: relative;
+    margin: 0;
+    background-color: #34495e;
+    min-height: 150vh;
+
+}
+
+.conteiner1 {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 700px;
+}
+
+.conteiner1 h2 {
+    text-align: center;
+    margin: 0;
+    margin-top: 137px;
+}
+
+#about p {
+    margin: 0;
+    margin-top: 69px;
+    text-align: inherit;
+    color: white;
+    font-family: DroidSerif;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 33px;
+
+}
+
+.cont {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 900px;
+}
+
+.cont ul {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 250px;
+}
+
+#about ul {
+    width: 33%;
+    float: left;
+
+}
+
+.cont ul li {
+    list-style-type: none;
+}
+
+.cont ul li h2 {
+    margin: 0;
+    text-align: center;
+    font-size: 24px;
+
+}
+
+#portfolio {
+    position: relative;
+    margin: 0;
+    background-color: white;
+    min-height: 50vh;
+    text-align: center;
+}
+
+.portfolio-memu h2 {
+    font-size: 36px;
+    color: #2c3e50;;
+    margin-top: 124px;
+}
+
+#portfolio #port-menu li {
+    display: inline-block;
+    color: #2c3e50;
+    font-size: 36px;
+    margin-left: 30px;
+    text-decoration: none;
+}
+
+#portfolio #port-menu li a {
+    text-decoration: none;
+    color: #2c3e50;
+    text-align: center;
+}
+
+#portfolio #port-menu li:hover {
+    border-radius: 25px;
+    background-color: #2ecc71;
+}
+
+#portfolio #elements ul {
+    width: 100%;
+}
+
+#portfolio #elements li {
+    display: inline-block;
+    margin: 5px;
+    border: 1px solid #e9e9e9;
+}
+
+#portfolio #elements li img {
+    width: 340px;
+    height: 260px;
+    border: 5px solid #fff;
+}
+
+.portfolio-memu {
+    margin: 0 auto;
+    width: 100%;
+    max-width: 1200px;
+}
+
+.team-wrapper {
+    background-color: #2980b9;
+}
+#team{
+    position: relative;
+    margin: 0;
+    min-height: 150vh;
+}
+
+#team ul li {
+    display: inline-block;
+    width: 40%;
+    margin: 4%;
+    text-align: center;
+}
+
+#team ul li img {
+    border-radius: 50%;
+}
+
+#team ul li span {
+    display: inline-block;
+    width: 60px;
+    padding: 8px;
+    margin: 5px 10px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+}
+
+.team-section-icons {
+    color: #fff;
+}
+
+.team ul li a {
+    text-decoration: none;
+}
+
+#team ul li p {
+    font-size: 20px;
+}
+
+#team ul li h3 {
+    color: #fff;
+    font-size: 26px;
+    line-height: 31px;
+}
+.head{
+    margin: 0;
+}
